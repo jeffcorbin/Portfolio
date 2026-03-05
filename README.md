@@ -1,6 +1,6 @@
 # 🧭 Jeff's Portfolio
 
-Welcome to my portfolio! Below is a summary of my personal projects in machine learning and applied AI. 
+Welcome to my portfolio! Below is a summary and navigation of my personal projects in machine learning and applied AI. 
 
 ## 📑 Table of Contents
 - [Data Engineering](#data-engineering)
