@@ -13,16 +13,16 @@ Welcome to my portfolio! Below is a summary and navigation of my personal projec
 
 # Supervised Learning
 
-| Project Link | Area | Project Description | Libraries | Dataset |
+| Project Link | Area | Project Description | Libraries | Tools |
 |---|---|---|---|---|
-| 🏥 [Hospital Discharge Forecasting](https://github.com/jeffcorbinjr/supervised-learning/tree/main/Hospital%20Discharge%20Forecasting) | Regression |  | pandas, numpy, XGBoost |
+| 🏥 [Hospital Discharge Forecasting](https://github.com/jeffcorbinjr/supervised-learning/tree/main/Hospital%20Discharge%20Forecasting) | Regression |  | pandas, numpy, XGBoost | Docker, FastAPI, streamlit |
 | 🎥 [Movie Mood Clustering](https://github.com/jeffcorbinjr/supervised-learning/tree/main/Movie%20Mood%20Clustering) | Classification |  | pandas, numpy, KNN |  |
 
 ***
 
 # Unsupervised Learning
 
-| Project Link | Area | Project Description | Libraries | Dataset |
+| Project Link | Area | Project Description | Libraries | Tools |
 |---|---|---|---|---|
  
 
@@ -30,7 +30,7 @@ Welcome to my portfolio! Below is a summary and navigation of my personal projec
 
 # Reinforcement Learning
 
-| Project Link | Area | Project Description | Libraries | Dataset |
+| Project Link | Area | Project Description | Libraries | Tools |
 |---|---|---|---|---|
 
 
@@ -38,19 +38,19 @@ Welcome to my portfolio! Below is a summary and navigation of my personal projec
 
 # Deep Learning
 
-| Project Link | Area | Project Description | Libraries | Dataset |
+| Project Link | Area | Project Description | Libraries | Tools |
 |---|---|---|---|---|
 
 ***
 
 # NLP
 
-| Project Link | Area | Project Description | Libraries | Dataset |
+| Project Link | Area | Project Description | Libraries | Tools |
 |---|---|---|---|---|
 
 ***
 
 # Computer Vision
 
-| Project Link | Area | Project Description | Libraries | Dataset |
+| Project Link | Area | Project Description | Libraries | Tools |
 |---|---|---|---|---|
