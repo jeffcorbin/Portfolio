@@ -3,20 +3,24 @@
 Welcome to my portfolio! Below is a summary and navigation of my personal projects in machine learning and applied AI. 
 
 ## 📑 Table of Contents
-- [Data Engineering](#data-engineering)
-- [SQL](#sql)
-- [Python](#python)
+- [Supervised Learning](#supervised-learning)
+- [Unsupervised Learning](#unsupervised-learning)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Deep Learning](#deep-learning)
+- [NLP](#nlp)
+- [Computer Vision](#computer-vision)
 
-# Data Engineering
+
+# Supervised Learning
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🚗 [Uber Taxi](https://github.com/jeffcorbinjr/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
+| 🏥 | [Hospital Discharge Forecasting](https://github.com/jeffcorbinjr/supervised-learning/tree/main/Hospital%20Discharge%20Forecasting) | April 2026 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
 | 🐶 [Dog Adoption](https://github.com/jeffcorbinjr/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
 
 ***
 
-# SQL
+# Unsupervised Learning
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
@@ -26,7 +30,7 @@ Welcome to my portfolio! Below is a summary and navigation of my personal projec
 
 ***
 
-# Python
+# Reinforcement Learning
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
@@ -40,7 +44,7 @@ Welcome to my portfolio! Below is a summary and navigation of my personal projec
 
 ***
 
-# Tableau
+# Deep Learning
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
