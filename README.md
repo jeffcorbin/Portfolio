@@ -16,7 +16,7 @@ Welcome to my portfolio! Below is a summary and navigation of my personal projec
 | Project Link | Area | Project Description | Libraries |
 |---|---|---|---|
 | 🏥 [Hospital Discharge Forecasting](https://github.com/jeffcorbinjr/supervised-learning/tree/main/Hospital%20Discharge%20Forecasting) | Regression | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. | pandas, numpy, XGBoost |
-| 🐶 [Dog Adoption](https://github.com/jeffcorbinjr/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
+| 🎥 [Movie Mood Clustering](https://github.com/jeffcorbinjr/supervised-learning/tree/main/Movie%20Mood%20Clustering) | Classification | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. | pandas, numpy, KNN |
 
 ***
 
