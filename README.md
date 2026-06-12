@@ -19,6 +19,8 @@ Welcome to my portfolio! Below is a summary and navigation of my personal projec
 | ⛅ [Weather Forecasting](https://github.com/jeffcorbinjr/weather-forecasting) | Time Series, Supervised Learning, Deep Learning  |  | pandas, numpy, SARIMA, Prophet, XGBoost, LightGBM, N-BEATS, PyTorch | Docker, FastAPI, streamlit |
 
 
+***
+
 # Supervised Learning
 
 | Project Link | Area | Project Description | Libraries | Tools |
